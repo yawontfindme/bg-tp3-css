@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: red;
+    width: 90%;
+    margin: auto;
+    height: auto;
+    border: 1px solid black;
+    max-width: 1100px;
+}
+
+.main-nav {
+    background-color: #CCCCCC;
+    width: 100%;
+    height: 60px;
+    border: 1px solid black;
+}
+
+.showcase {
+    background-color: #CCCCCC;
+    width: 100%;
+    height: 60px;
+    border: 1px solid black;
+}
+
+.home-cards {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+#bigData-intro {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+
+.ruban  {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.follow {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+
+footer {
+    background-color: #CCCCCC;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.links {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.sub-footer {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
