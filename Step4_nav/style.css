@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.container {
+    background-color: red;
+    width: 90%;
+    margin: auto;
+    height: auto;
+    border: 1px solid black;
+    max-width: 1100px;
+}
+
+.main-nav {
+    background-color: white;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    border: 1px solid black;
+}
+
+.main-nav .logo {
+    width: 110px;
+}
+
+.main-nav ul {
+    list-style: none;
+    display: flex;
+}
+
+.main-nav ul.main-menu {
+    margin-left: 20px;
+    flex: 1;
+}
+
+.main-nav ul li {
+    padding: 0 10px;
+}
+
+.main-nav a {
+    color: #262626;
+    text-decoration: none;
+    padding-bottom: 2px;
+}
+
+.main-nav a:hover {
+    border-bottom: 2px solid black;
+}
+
+.showcase {
+    background-color: #CCCCCC;
+    width: 100%;
+    height: 60px;
+    border: 1px solid black;
+}
+
+.home-cards {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+#bigData-intro {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+
+.ruban  {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.follow {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+
+footer {
+    background-color: #CCCCCC;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.links {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.sub-footer {
+    background-color: #d3eaac;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
